@@ -13,6 +13,9 @@ body{
 
 
 .pulsate-fwd {
+    position: absolute;
+    left: 870px;
+    bottom: 676px;
     color: lightgreen;
     margin: 0 auto;
     text-align: center;

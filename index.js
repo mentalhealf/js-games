@@ -128,7 +128,7 @@ class Game{
         
 
         // elmayı çiz
-        fill("pink");
+        fill("red");
         
         rect(this.appleX * this.tileCount, this.appleY *this.tileCount, this.gridSize -5, this.gridSize - 5,5,5);
 
